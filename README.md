@@ -211,14 +211,22 @@ Accepted at **ACL 2026 (Main Conference)**.
 **BibTeX**
 
 ```bibtex
-@misc{marzollo2026sssdsimplyscalablespeculativedecoding,
-      title={SSSD: Simply-Scalable Speculative Decoding},
-      author={Michele Marzollo and Jiawei Zhuang and Niklas Roemer and Niklas Zwingenberger and Lorenz K. Muller and Lukas Cavigelli},
-      year={2026},
-      eprint={2411.05894},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2411.05894},
+@inproceedings{marzollo-etal-2026-sssd,
+    title = "{SSSD}: Simply-Scalable Speculative Decoding",
+    author = "Marzollo, Michele  and
+      Zhuang, Jiawei  and
+      Roemer, Niklas  and
+      Zwingenberger, Niklas  and
+      Muller, Lorenz K  and
+      Cavigelli, Lukas",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.1530/",
+    pages = "33123--33139",
+    ISBN = "979-8-89176-390-6"
 }
 ```
 
